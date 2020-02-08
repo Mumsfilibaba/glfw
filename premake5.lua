@@ -86,4 +86,3 @@ project "GLFW"
 		runtime "Release"
 		optimize "on"
 	filter {}
-project "*"
